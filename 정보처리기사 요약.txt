@@ -100,4 +100,24 @@ CCPM - CPM으로 자원제약사항을 고려하여 일정을 작성
  ㄴ 구성요소: 유논프구배(유스케이스뷰, 논리뷰, 프로세스뷰, 구현뷰, 배포뷰)
 
 6. 소프트웨어 아키텍처 패턴
+ ㄴ 소프트웨어를 설계할 때 참조할 수 있는 전형적인 해결 방식.
+ ㄴ 일반화되고 재사용 가능한 솔루션
+ ㄴ 패턴유형: 계층화 패턴, 클라이언트-서버 패턴, 파이프-필터 패턴, 브로커 패턴, 모델-뷰-컨트롤러 패턴(MVC)
+
+7. 소프트웨어 아키텍처 비용 평가 모델
+ ㄴ SAAM, ATAM, CBAM, ADR, ARID
+
+8. 디자인 패턴
+ ㄴ 소프트웨어 설계에서 공통으로 발생하는 문제에 대해 자주 쓰이는 설계 방법을 정리한 패턴
+ ㄴ 개발 효율성, 유지보수성, 운용성, 프로그램 최적화
+ ㄴ 구성요소: 패문솔 사결샘(패턴의 이름, 문제 및 배경, 솔루션, 사례, 결과, 샘플코드)
+
+9. 디자인 패턴 유형
+ 목적 - 생성, 구조, 행위 / 범위 - 클래스, 객체
+
+10. 디자인 패턴 종류
+ 생성 - Builder, Prototype, Factory Method, Abstract Factory, Singleton
+ 구조 - Bridge, Decorator, Facade, Flyweight, Proxy, Composite, Adapter
+ 행위 - Mediator, Interpreter, Iterator, Template Method, Observer, State, Visitor, Command, Strategy, Memento, Chain of Responsibility
+
   
