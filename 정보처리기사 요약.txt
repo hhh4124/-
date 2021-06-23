@@ -1447,3 +1447,21 @@ Service: 사용자의 요청을 처리하는 기능을 제공하기 위한 로�
   ㄴ Stuxnet
   ㄴ Credential Stuffing
 
+308. 보안 공격 대응 관련 중요 용어
+  ㄴ Honeypot
+  ㄴ OWASP Top 10
+  ㄴ Finger Printing
+  ㄴ Water Marking
+  ㄴ 이상금융거래탐지시스템(FDS; Fraud Detection System)
+  ㄴ CPTED(Crime Prevent Through Environment Design)
+  ㄴ CC(Common Criteria)
+  ㄴ 사이버 위협정보 분석 공유시스템(C-TAS; Cyber Threats Analysis System)
+  ㄴ 장착형 인증 모듈(PAM; Pluggable Authentication Module)
+  ㄴ CVE(Common Vulnerabilities and Exposures)
+  ㄴ CWE(Common Weakness Enumeration)
+  ㄴ CVSS(Common Vulnerability Scoring System)
+
+
+
+
+
