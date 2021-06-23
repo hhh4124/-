@@ -1426,5 +1426,24 @@ Service: 사용자의 요청을 처리하는 기능을 제공하기 위한 로�
   ㄴ Warm Site: Hot site와 유사하나 동일한 수준의 자원을 대기 상태로 원격지 보유하는 대신 중요성 높은 자원만 부분적으로, RTO는 수일~수주, 백업 주기가 수시간 ~ 1일
   ㄴ Cold Site: 데이터만 원격지에 보관하고 재해시 데이터를 근간으로 필요 자원 조달하여 복구 RTO는 수주~수개월, 저렴하나 시간 길고 신뢰성 낮음
 
-
+307. 보안 관련 중요 용어
+  ㄴ 부채널 공격(Side Channel Attack)
+  ㄴ 드라이브 바이 다운로드(Drive By Download)
+  ㄴ 워터링 홀(Watering Hole)
+  ㄴ 스캠(SCAM)
+  ㄴ 하트 블리드(Heart Bleed)
+  ㄴ 크라임웨어(Crimeware)
+  ㄴ 프로토콜 취약점(IoT-SSDP; Simple Service Discovery Protocol)
+  ㄴ 윈드 토커(Wind Talker)
+  ㄴ 토르 네트워크(Tor network)
+  ㄴ 멜트다운(Meltdown)
+  ㄴ 스펙터(Specter)
+  ㄴ MITM(Man in the Middle)
+  ㄴ DNS spoofing
+  ㄴ Port Scanning
+  ㄴ Directory Listing
+  ㄴ Reverse Shell
+  ㄴ Exploit
+  ㄴ Stuxnet
+  ㄴ Credential Stuffing
 
