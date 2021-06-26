@@ -2096,6 +2096,12 @@ Service: 사용자의 요청을 처리하는 기능을 제공하기 위한 로�
   ㄴ IP 패킷의 앞부분에서 주소 등 각종 제어정보를 담고 있는 부분, IPv4 헤더 사이즈는 옵션 미지정 시 최소 20바이트 이상 
   ㄴ 버헤타토 아플프 타플해 소데옵페: Version, Header Length / Type of Service / Total Length / Identification / Flag / Fragment Offset / Time to Live / Protocol / Header Checksum / Source Address / Destination Address / Options / Padding
 
+410. IPv4 주소체계
+  ㄴ IPv4 주소체계 10진수로 총 12자리이며, 네 부분으로 나뉜다.
+  ㄴ 각 부분은 0~255까지 3자리의 수로 표현
+  ㄴ IPv4 주소는 32비트로 구성되어 있으며, 인터넷 사용자의 증가로 인해 주소 공간의 고갈로 128비트의 주소체계를 갖는 IPv6가 등장, 점차 확산되고 있다.
+  ㄴ 32빝 IP주소는 Network 를 나타내는 부분과 Host를 나타내는 부분으로 구성되어 있고, Network부분과 Host 부분을 구분하는 것은 서브넷 마스크이다.
+
 
 
 
