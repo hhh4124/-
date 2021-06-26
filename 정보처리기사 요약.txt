@@ -2300,6 +2300,16 @@ Service: 사용자의 요청을 처리하는 기능을 제공하기 위한 로�
       ㄴ DRM 컨트롤러(DRM Controller): 배포된 콘텐츠의 이용 권한을 통제
       ㄴ 클리어링 하우스(Clearing House): 소비자와 유통업자 사이에 발생하는 거래에 대해 디지털 저작권 라이선싱을 중개하고 라이선스 발급을 수행하는 정산소, 모니터링 서비스를 지원하여 디지털 저작물의 이용 내역을 근거로 신뢰할 수 있는 저작권료의 정산 및 분배가 이루어짐
 
+454. 암호화/ 보안 기능 중심의 패키징 도구 구성: 암키식저 파크정인
+  ㄴ 암호화(Encryption): 일반 텍스트, 콘텐츠, 라이선스 등의 암ㄹ호화 및 전자서명에 사용하는 기술 ex) 공개 키 기반 구조, 대칭 및 비대칭 암호화, 전자서명
+  ㄴ 키 관리(Key Management): 키에 대한 저장 및 배포 기술 
+  ㄴ 식별 기술(Identification): 식별 체계 표현 기술 ex) DOI, URI
+  ㄴ 저작권 표현(Right Expression): 라이선스의 내용 표현 기술 ex) XrML, MPEG-21
+  ㄴ 암호화 파일 생성(Packager): 콘텐츠의 암호화를 통해 콘텐츠를 보호하는 기술 ex) Pre-packaging, On-the-fly Packaging
+  ㄴ 크랙 방지(Tamper Resistance): 크랙에 의한 콘텐츠 사용 방지 기술 ex) 난독화, Secure DB
+  ㄴ 정책 관리(Policy Management):라이선스 발급 및 사용에 대한 정책표현 및 관리기술: XML, 콘텐츠 관리 시스템(CMS)
+  ㄴ 인증(Authentication): 라이선스 발급 및 사용의 기준이 되는 사용자 인증 기술 ex) 사용자/장비 인증, SSO
+
 
 
 
