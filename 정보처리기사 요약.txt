@@ -2204,7 +2204,11 @@ Service: 사용자의 요청을 처리하는 기능을 제공하기 위한 로�
   ㄴ 흐름제어(Flow control): 흐름 제어 기능을 활용하여 송신 및 수신 속도를 일치시킴
   ㄴ 혼잡제어(Cogestion control): 네트워크가 혼잡하다고 판단될 때는 혼잡제어 기법을 사용하여 송신율을 감속함
 
+432. TCP 헤더 구조
+  ㄴ TCP 헤더의 최소 크기는 20바이트
+  ㄴ 소데씨엑 헤리플윈 체어옵패: Source Port Number, Destination Port Number / Sequence Number / Acknowledgement Number / HLEN(Header Length) / Flag Bit / Window Size / Checksum / Urgent Pointer / Options and Padding
 
+433. UDP(User Datagram Protocol)
 
 
 
