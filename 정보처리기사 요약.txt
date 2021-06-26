@@ -2093,7 +2093,15 @@ Service: 사용자의 요청을 처리하는 기능을 제공하기 위한 로�
   ㄴ IPv4는 인터넷에서 사용되는 패킷 교환 네트워크상에서 데이터를 교환하기 위한 32비트 주소체계를 갖는 네트워크 계층의 프로토콜이다.
 
 409. IPv4 헤더
-  ㄴ IP 패킷의 앞부분에서 주소 등 각종 제어정보를 담고 있는 부분, IPv4 헤더 사이즈는 옵션 미지정 시 최소 20바이트 이상
+  ㄴ IP 패킷의 앞부분에서 주소 등 각종 제어정보를 담고 있는 부분, IPv4 헤더 사이즈는 옵션 미지정 시 최소 20바이트 이상 
+  ㄴ 버헤타토 아플프 타플해 소데옵페: Version, Header Length / Type of Service / Total Length / Identification / Flag / Fragment Offset / Time to Live / Protocol / Header Checksum / Source Address / Destination Address / Options / Padding
+
+
+
+
+
+
+
 
 
 
