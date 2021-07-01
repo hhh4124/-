@@ -2796,6 +2796,10 @@ Service: 사용자의 요청을 처리하는 기능을 제공하기 위한 로�
   ㄴ WSDL(Web Service Description Language): 웹 서비스 명, 제공 위치, 메시지 포맷, 프로토콜 정보 등 웹 서비스에 대한 상세 정보가 기술된 XML 형식으로 구현되어 있는 언어이다.
   ㄴ UDDI(Universal Description, Discovery and Integration): UDDI는 웹 서비스에 대한 정보인 WSDL을 등록하고 검색하기 위한 저장소로 공개적으로 접근, 검색이 가능한 레지스트리이자 표준이다.
 
+565. XML(eXtensible Markup Language): W3C에서 개발되었고, 웹 브라우저 간 호환이 되지 않는 문제와 SGML의 복잡함을 해결하기 위해 개발된 다목적 마크업 언어
+
+566. 
+
 
 
 
